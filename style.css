@@ -1,0 +1,27 @@
+
+
+#orjon {
+    width: 250px;
+    height: 100vh;
+    background: white;
+    border-right: 1px solid white;
+}
+
+#salihu{
+    font-weight: bold;
+    text-align: center;
+    padding-bottom: 15px;
+}
+
+#dren {
+    padding: 10px;
+    font-size: 18px;
+    
+}
+
+#rron {
+    background: white;
+    border-radius: 5px;
+}
+
+
